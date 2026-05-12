@@ -357,6 +357,7 @@ body {
   padding: 1.75rem;
   border-top: 2px solid #C4933F;
 }
+.fl-test-stars { color: #C4933F; font-size: 13px; letter-spacing: 2px; margin-bottom: 0.75rem; }
 .fl-test-quote {
   font-family: 'Lora', serif;
   font-size: 14px;
